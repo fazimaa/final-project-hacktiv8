@@ -1,0 +1,2 @@
+- Link Deploy : https://fauzan-portfolio.netlify.app/
+- Link Github : https://github.com/fazimaa/final-project-hacktiv8
